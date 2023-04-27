@@ -4,12 +4,48 @@
 
 Un script Bash completo para configurar un entorno de desarrollo PHP con Laravel, Valet, MariaDB, Nginx y phpMyAdmin en Linux. Este script automatiza el proceso de instalación, permitiéndote configurar tu entorno de desarrollo de manera rápida y eficiente.
 
-## Instalación
+## Instalación LINUX
 
 Para instalar y ejecutar este script en tu sistema Linux, sigue estos pasos:
 
 1. Abre una terminal en tu sistema.
 2. Ejecuta el siguiente comando para descargar y ejecutar el script:
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/zerocooldeveloper/fullstack-php-setup/master/install_php_laravel_valet_mariadb_nginx.sh | sudo bash
+    ```bash
+    curl -fsSL https://raw.githubusercontent.com/zerocooldeveloper/fullstack-php-setup/master/install_php_laravel_valet_mariadb_nginx.sh | sudo bash
+
+Este script automatiza el proceso de instalación del entorno de desarrollo completo para Linux. Instala y configura Laravel, Valet, MariaDB, Nginx y phpMyAdmin en Linux.
+Sigue las instrucciones del script para configurar las contraseñas y otros detalles según tus necesidades.
+¡Listo! Tu entorno de desarrollo completo para PHP debería estar instalado y listo para usar
+
+## Instalación en macOS
+Para instalar y ejecutar este script en tu sistema macOS, sigue estos pasos:
+
+1. Abre una terminal en tu sistema.
+2. Ejecuta el siguiente comando para descargar y ejecutar el script:
+
+   ```bash
+    curl -fsSL https://raw.githubusercontent.com/zerocooldeveloper/fullstack-php-setup/master/install_full_stack_mac.sh | sudo bash
+Este script automatiza el proceso de instalación del entorno de desarrollo completo para macOS. Instala y configura Laravel, Valet, MariaDB, Nginx en macOS.
+
+Sigue las instrucciones del script para configurar las contraseñas y otros detalles según tus necesidades.
+
+¡Listo! Tu entorno de desarrollo completo para PHP debería estar instalado y listo para usar.
+
+## Contribuir
+
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+1. Haz un fork de este proyecto.
+
+2. Crea una nueva rama con tus cambios: `git checkout -b mi-rama`
+
+3. Haz tus cambios y confirma tus commits: `git commit -am 'Agregado mi nueva característica'`
+
+4. Empuja tus cambios a tu repositorio en GitHub: `git push origin mi-rama`
+
+5. Envía una solicitud de extracción (pull request) para que revisemos tus cambios.
+
+## Créditos
+
+Este proyecto ha sido creado por ZeroCoolDeveloper.
