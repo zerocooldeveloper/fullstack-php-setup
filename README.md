@@ -10,4 +10,4 @@ Para instalar y ejecutar este script en tu sistema Linux, sigue estos pasos:
 2. Ejecuta el siguiente comando para descargar y ejecutar el script:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zerocooldeveloper/fullstack-php-setup/main/install_php_laravel_valet_mariadb_nginx.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/zerocooldeveloper/fullstack-php-setup/master/install_php_laravel_valet_mariadb_nginx.sh | sudo bash
